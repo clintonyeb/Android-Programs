@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\holys\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\holys\AndroidStudioProjects\LifeCycle\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_09245f3f75e2bf9499eb0e34e19673d23c6d26c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\holys\AndroidStudioProjects\LifeCycle\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\holys\AndroidStudioProjects\LifeCycle\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_026f24487dc72e7ca40f901e992864f9f549eaab.jar" />
+    </item>
+    <item
+        jar="C:\Users\holys\AndroidStudioProjects\LifeCycle\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\holys\AndroidStudioProjects\LifeCycle\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_aa803c4968c45a675d65bbc8324e1b1be6deab6f.jar" />
+    </item>
+    <item
+        jar="C:\Users\holys\AndroidStudioProjects\LifeCycle\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\holys\AndroidStudioProjects\LifeCycle\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_91db73a4e30006f49e93e97256c7b5b9cceb040f.jar" />
+    </item>
+
+</items>

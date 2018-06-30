@@ -1,0 +1,7 @@
+#Wed Jan 18 18:05:30 IST 2017
+base.0=/home/clinton/Android/Test1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_afaf4a2d37cce99d7521d36ad7eae6d78032baad
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/clinton/Android/Test1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_682ce1bf0552181508cc0d002adce0ce2b706d5e/classes.dex
+base.1=/home/clinton/Android/Test1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_682ce1bf0552181508cc0d002adce0ce2b706d5e
+file.0=/home/clinton/Android/Test1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_afaf4a2d37cce99d7521d36ad7eae6d78032baad/classes.dex

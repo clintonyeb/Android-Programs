@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="70c8d0dd49a3f0360b825ca04a0ca94074620bff">
+        <dex dex="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_336c8c161621c9159a47d072163b29e5a687b87a/classes.dex" />
+    </item>
+    <item
+        jar="/home/clinton/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_48d9733f703112c07edac28c6d381de0e894ede3/classes.dex" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_932947785edb0f80c69430664e6b0bc34de56e9a/classes.dex" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_13785a6f2085825e83c9b5a6b5de4b3f69080b35/classes.dex" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_ddaac65321f16d35d47f0b6330ef887ba09ec711/classes.dex" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_dc638c7ef85ecf01ff621821dcef9dc72dffb7bb/classes.dex" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_3b4de3e4098b3336bc3a35d145d8c5d6a68a9f2d/classes.dex" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_322cc3770e557c3df607cea10e1293b5fd245d8d/classes.dex" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b673fa24cce45f40fc3eda7ed76427052edbb694">
+        <dex dex="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7e79ff9691a05592d843128f60b380f029784966/classes.dex" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_2fbdfca4de9525c219d507baf2dc854e93dc7c9d/classes.dex" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.4.0_5aebb9cd1a47523a0d8ff2e4d08cb64125eba47a/classes.dex" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library/1.0.6/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a89762bbbd7f29b4b555f12961653b11d01c8c79">
+        <dex dex="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mcxiaoke.volley-library-1.0.6_e4fa1ed5b4c76af4066b59f8231f63561222041f/classes.dex" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_dca98dea6f4963f0cf75be1b59d9ad8bc983e8ae/classes.dex" />
+    </item>
+
+</items>

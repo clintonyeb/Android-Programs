@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GCMDemo</string>
+    
+    <string name="gcm_project_id">radiant-striker-130416</string>
+
+<string name="server_api_key">AIzaSyCFVkklE8LBXE0c4xD3dCC0V7Lq1y1-DDY</string>
+    <string name="sender_id">781185734314</string>
+</resources>

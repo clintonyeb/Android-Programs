@@ -1,0 +1,5 @@
+platform :ios, '7.0'
+pod 'Google/AppInvite'
+target 'AppInvitesExample'
+target 'AppInvitesExampleSwift'
+target 'AppInvitesExampleTests'

@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Companion</string>
+    <string name="browser_title">Companion Browser</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Menu Strings -->
+    <string name="str_news">News Today</string>
+    <string name="str_notify">Remind Me</string>
+    <string name="str_school">Time Table</string>
+    <string name="str_profile">Profile</string>
+    <string name="str_help">Help</string>
+    <string name="str_settings">Settings</string>
+    <string name="str_feed">Feedback</string>
+    <string name="str_logout">Logout</string>
+
+
+    <!-- Tabs -->
+    <string name="life">LifeStyle</string>
+    <string name="science">Science</string>
+    <string name="sport">Sport</string>
+    <string name="culture">Culture</string>
+    <string name="world">World</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_tag">A Friends in Need</string>
+    <string name="refresh">Refresh</string>
+
+    <string name="light_speech"><i>noun</i></string>
+    <string name="light_def_header">Definitions:</string>
+    <string name="light_ex_header">Examples:</string>
+    <string name="light_example">A sudden light that made me blink.\n\n
+    Turn out the lights when you leave</string>
+    <string name="word_day">Word of The Day</string>
+    <string name="light_source">Come from another planet</string>
+    <string name="action_share">Share</string>
+    <string name="light_meaning">The sensation of perceiving light; brightness</string>
+    <string name="light_word"><u>light</u></string>
+    <string name="search">News Search</string>
+    <string name="dictionary_search">Dictionary</string>
+    <string name="dict_label">Dictionary</string>
+
+    <string-array name="spinner_data">
+        <item>Means-Like</item>
+        <item>Sounds-Like</item>
+        <item>Spelt-Like</item>
+        <item>Synonyms</item>
+        <item>Antonyms</item>
+        <item>Hypernyms</item>
+        <item>Hyponyms</item>
+        <item>Holonyms</item>
+        <item>Meronyms</item>
+        <item>Perfect Rhymes</item>
+        <item>Approximate Rhymes</item>
+        <item>Homophones</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="progress_ring">Progress Ring</string>
+    <string name="dictionary_list">dictionary list</string>
+    <string name="nav_header">navigational header</string>
+    <string name="news_thumb">news thumbnail</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="share">Share</string>
+    <string name="more_items">More Items</string>
+    <string name="news_favorites">News Favorites</string>
+    <string name="read_full_article">Read full Article</string>
+    <string name="remove_from_fav">Remove from Favorites</string>
+    <string name="quote_of_the_day">Quote of the Day:</string>
+    <string name="news">News</string>
+    <string name="favorites">Favorites</string>
+    <string name="dictionary">Dictionary</string>
+    <string name="search_dictionary">Search Dictionary</string>
+    <string name="all_dictionary">All Dictionary</string>
+    <string name="schedule">Schedule</string>
+    <string name="utilities">Utilities</string>
+    <string name="todo">ToDo</string>
+
+</resources>

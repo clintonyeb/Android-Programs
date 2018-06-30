@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\showpromotion.png",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\drawable-hdpi\\showpromotion.png"
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="96551262919958" >
+
+    <task
+        name="javac"
+        duration="2069" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="344" />
+    <task
+        name="verifier"
+        duration="80" />
+
+    <artifact
+        location="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="96551262919958" >
+        <artifact
+            location="/home/clinton/AndroidStudioProjects/google-services/android/gcm/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

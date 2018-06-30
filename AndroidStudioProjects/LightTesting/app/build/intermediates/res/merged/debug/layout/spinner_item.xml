@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@android:style/TextAppearance.Widget.TextView.SpinnerItem"
+        android:id="@+id/wordName"
+        android:textColor="@color/colorPrimary"
+        android:text="dcscw"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/word_explain"
+        android:textSize="14sp"
+        android:layout_below="@id/wordName"
+        android:layout_toEndOf="@id/wordName"
+        style="@android:style/TextAppearance.Widget.TextView.SpinnerItem"
+        android:textColor="@color/primary_text"
+        android:text="edcewcew"/>
+
+</RelativeLayout>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ShakespearFragment</string>
+
+    <string-array name="_titles">
+        <item>Title1</item>
+        <item>Title2</item>
+        <item>Title3</item>
+        <item>Title4</item>
+        <item>Title5</item>
+        <item>Title6</item>
+        <item>Title7</item>
+        <item>Title8</item>
+        <item>Title9</item>
+    </string-array>
+    <string name="dialog">
+        So shaken as we are, so wan with care
+        So shaken as we are, so wan with care
+        So shaken as we are, so wan with care
+        So shaken as we are, so wan with care
+    </string>
+</resources>

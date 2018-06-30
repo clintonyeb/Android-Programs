@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="/home/clinton/AndroidStudioProjects/android-floating-action-button/sample/build/intermediates/exploded-aar/android-floating-action-button/library/unspecified/assets"/></dataSet><dataSet config="main"><source path="/home/clinton/AndroidStudioProjects/android-floating-action-button/sample/src/main/assets"/></dataSet><dataSet config="debug"><source path="/home/clinton/AndroidStudioProjects/android-floating-action-button/sample/src/debug/assets"/></dataSet></merger>

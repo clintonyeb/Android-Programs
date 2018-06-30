@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/menu/context_menu.xml",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/menu/context_menu.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/menu/main_menu.xml"
+    }
+]

@@ -1,0 +1,320 @@
+[
+    {
+        "outputFile": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/build/intermediates/res/merged/debug/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 38,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/src/main/res/values-land/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 38,
+                        "endOffset": 124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 69,
+                    "endOffset": 293
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 298,
+                    "endColumn": 63,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 70,
+                    "endOffset": 428
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 433,
+                    "endColumn": 67,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 678
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 224,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 401
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 38,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\src\\main\\res\\values-land\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 38,
+                        "endOffset": 124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 69,
+                    "endOffset": 293
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 298,
+                    "endColumn": 63,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 70,
+                    "endOffset": 428
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 433,
+                    "endColumn": 67,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 678
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 224,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 401
+                    }
+                }
+            }
+        ]
+    }
+]

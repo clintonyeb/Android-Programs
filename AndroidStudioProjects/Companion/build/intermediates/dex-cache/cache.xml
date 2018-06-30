@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_6be3db55192ec920c726ac0e6dff30b2c2331161.jar" />
+    </item>
+    <item
+        jar="/home/clinton/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_f6458957589744e658ce157e607428118beca932.jar" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3cdabd55b1c135e3bfd9f97d7c4ab09678789264">
+        <dex dex="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/pre-dexed/debug/instant-run_42e8f342150ecd398aabad197e1fed53702f5245.jar" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_9d31f46c2188e29565a66e23371ee43fac6c5fe7.jar" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_f6a4ec1f80c3605a44ea6ec4580c0f439029eded.jar" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_fee2ec209d1a83b83805360ebbcaabd161eee2f2.jar" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_eff48cc06fafe25b1b3757a6daff5c4984131def.jar" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_fb3e050443576816e5dd75a2e35be5d1fcd4d96a.jar" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_e64f94f18f46bcc31da6b4aca148b42dd61b1701.jar" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_f4394be0c943034dabdfea482481bb47fa62f197.jar" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2c1bf4b6008848383b0afc0e5715ab75145f0ca7">
+        <dex dex="/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_4cda478ad97f7b84d457f7e1f390ed353fe60542.jar" />
+    </item>
+
+</items>

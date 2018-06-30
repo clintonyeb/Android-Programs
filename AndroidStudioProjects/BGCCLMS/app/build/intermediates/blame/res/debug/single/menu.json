@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_display_info.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\src\\main\\res\\menu\\menu_display_info.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_browser.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\src\\main\\res\\menu\\menu_browser.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_display_detail.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\src\\main\\res\\menu\\menu_display_detail.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/build/intermediates/res/merged/debug/menu/frag_menu.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/src/main/res/menu/frag_menu.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_news_data_display.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\src\\main\\res\\menu\\menu_news_data_display.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/build/intermediates/res/merged/debug/menu/menu_display_info.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/src/main/res/menu/menu_display_info.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\frag_menu.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\src\\main\\res\\menu\\frag_menu.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/build/intermediates/res/merged/debug/menu/menu_display_detail.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/src/main/res/menu/menu_display_detail.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/build/intermediates/res/merged/debug/menu/menu_news_data_display.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/src/main/res/menu/menu_news_data_display.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/build/intermediates/res/merged/debug/menu/menu_inner_list_items.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/src/main/res/menu/menu_inner_list_items.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/build/intermediates/res/merged/debug/menu/menu_browser.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/src/main/res/menu/menu_browser.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_inner_list_items.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\src\\main\\res\\menu\\menu_inner_list_items.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/src/main/res/menu/menu_main.xml"
+    }
+]

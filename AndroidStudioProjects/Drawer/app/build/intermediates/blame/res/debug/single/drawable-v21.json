@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Drawer/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/home/clinton/AndroidStudioProjects/Drawer/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Drawer/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/clinton/AndroidStudioProjects/Drawer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Drawer/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/home/clinton/AndroidStudioProjects/Drawer/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Drawer/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/clinton/AndroidStudioProjects/Drawer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Drawer/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/home/clinton/AndroidStudioProjects/Drawer/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Drawer/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/home/clinton/AndroidStudioProjects/Drawer/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Drawer/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/home/clinton/AndroidStudioProjects/Drawer/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Drawer/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/home/clinton/AndroidStudioProjects/Drawer/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Drawer/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/clinton/AndroidStudioProjects/Drawer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

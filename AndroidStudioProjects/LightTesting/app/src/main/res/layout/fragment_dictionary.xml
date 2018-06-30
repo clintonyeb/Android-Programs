@@ -1,0 +1,121 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".menuFragments.DictionaryFrag"
+              android:orientation="vertical"
+        android:id="@+id/wordLinearLayout"
+    android:background="@color/lightGray">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:background="?attr/colorPrimary">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize"
+            android:text="@string/word_day"
+            android:textColor="@color/icons"
+            android:gravity="center"
+            android:textSize="22sp"/>
+
+    </android.support.v7.widget.Toolbar>
+
+
+        <android.support.v4.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:scrollbars="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/light_word"
+                        android:textSize="20sp"
+                        android:typeface="serif"
+                        android:id="@+id/word"
+                        android:textColor="#0000FE"
+                        />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/light_speech"
+                        android:id="@+id/speech"
+                        android:textSize="14sp"
+                        android:layout_below="@id/word"
+                        android:layout_toRightOf="@id/word"
+                        android:textColor="@color/colorPrimaryDark"/>
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/light_def_header"
+                    android:textSize="14sp"
+                    android:textColor="#FE0000"
+                    android:id="@+id/def"
+                    android:gravity="center"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/light_meaning"
+                    android:id="@+id/meaning"
+                    android:textSize="16sp"
+                    android:paddingStart="16dp"
+                    android:paddingEnd="16dp"
+                    android:textColor="@color/primary_text"
+                    android:layout_marginBottom="8dp"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/light_source"
+                    android:typeface="serif"
+                    android:textColor="#013299"
+                    android:id="@+id/root"
+                    android:textSize="12sp"
+                    android:layout_marginBottom="8dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/light_ex_header"
+                    android:textSize="14sp"
+                    android:textColor="#FE0000"
+                    android:id="@+id/example"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/exampleTextView"
+                    android:textSize="16sp"
+                    android:paddingStart="16dp"
+                    android:paddingEnd="16dp"
+                    android:textColor="@color/primary_text"
+                    android:text="@string/light_example"
+                    android:layout_marginBottom="8dp"/>
+                <!--<Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAllCaps="false"
+                    android:textSize="20sp"
+                    android:gravity="center"
+                    android:textColor="@color/icons"
+                    android:background="@drawable/button_style"
+                    android:text="Continue To Dictionary"/>-->
+            </LinearLayout>
+        </android.support.v4.widget.NestedScrollView>
+
+</LinearLayout>

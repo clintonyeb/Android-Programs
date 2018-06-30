@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\images.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\drawable\\images.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\inventory_tab_selector.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\drawable\\inventory_tab_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recipient.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\drawable\\recipient.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sender.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\drawable\\sender.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_tab_selector.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\drawable\\product_tab_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\store_tab_selector.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\drawable\\store_tab_selector.xml"
+    }
+]

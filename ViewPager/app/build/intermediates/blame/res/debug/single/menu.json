@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/clinton/Projects/Android/ViewPager/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/clinton/Projects/Android/ViewPager/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/clinton/Projects/Android/ViewPager/app/build/intermediates/res/merged/debug/menu/menu_main2.xml",
+        "source": "/home/clinton/Projects/Android/ViewPager/app/src/main/res/menu/menu_main2.xml"
+    }
+]

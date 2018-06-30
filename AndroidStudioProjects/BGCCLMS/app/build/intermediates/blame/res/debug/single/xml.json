@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/build/intermediates/res/merged/debug/xml/pref_data_sync.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/src/main/res/xml/pref_data_sync.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_headers.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_data_sync.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_general.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_notification.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/C:\\Users\\holys\\AndroidStudioProjects\\BGCCLMS\\app\\src\\main\\res\\xml\\pref_notification.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/build/intermediates/res/merged/debug/xml/pref_notification.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/src/main/res/xml/pref_notification.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/build/intermediates/res/merged/debug/xml/pref_headers.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/src/main/res/xml/pref_headers.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/build/intermediates/res/merged/debug/xml/pref_general.xml",
+        "source": "/home/clinton/AndroidStudioProjects/BGCCLMS/app/src/main/res/xml/pref_general.xml"
+    }
+]

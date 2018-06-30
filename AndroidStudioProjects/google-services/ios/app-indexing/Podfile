@@ -1,0 +1,5 @@
+# AppIndexingExample
+platform :ios, '7.0'
+pod 'GoogleAppIndexing'
+target 'AppIndexingExample'
+target 'AppIndexingExampleSwift'

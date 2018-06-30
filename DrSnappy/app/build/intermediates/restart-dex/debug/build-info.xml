@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="25"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="24841255665212"
+    token="-8928988021076792881"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1751" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="334" />
+    <task
+        name="verifier"
+        duration="20" />
+
+    <artifact
+        location="/home/clinton/Projects/Android/DrSnappy/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="24841255665212"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/clinton/Projects/Android/DrSnappy/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

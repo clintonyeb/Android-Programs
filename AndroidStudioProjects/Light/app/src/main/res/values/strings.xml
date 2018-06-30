@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Light</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="sch_name">Bhutta Group of Colleges</string>
+    <string name="tagLine">Employable and Smart Education</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_news">Home</string>
+    <string name="str_articles">Articles</string>
+    <string name="str_study">Study Online</string>
+    <string name="str_events">School Events</string>
+    <string name="str_grievances">Grievances</string>
+    <string name="str_announce">Announcements</string>
+    <string name="str_profile">Profile</string>
+    <string name="str_help">Help</string>
+    <string name="str_settings">Settings</string>
+    <string name="str_feed">Feedback</string>
+    <string name="str_logout">Logout</string>
+
+    <string name="rollno">Roll Number</string>
+    <string name="password">Password</string>
+    <string name="login_text">LogIn</string>
+    <string name="keepme">Keep me logged in</string>
+    <string name="loggedin">Keep me logged in</string>
+
+    <string name="LOGGEDIN">com.example.holys.light.LOGGEDIN</string>
+    <string name="pub">Published: </string>
+    <string name="buttonText">Tap to load More News</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

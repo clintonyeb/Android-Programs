@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="9239226035747" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/clinton/AndroidStudioProjects/HomeFlavour/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="4252697358027" >
+        <artifact
+            location="/home/clinton/AndroidStudioProjects/HomeFlavour/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="7573957954328"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/home/clinton/AndroidStudioProjects/HomeFlavour/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="7734987429559" >
+        <artifact
+            location="/home/clinton/AndroidStudioProjects/HomeFlavour/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="9239226035747" >
+        <artifact
+            location="/home/clinton/AndroidStudioProjects/HomeFlavour/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

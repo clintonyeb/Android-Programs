@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FrameLayoutApp</string>
+    <string-array name="shakeSpears_titles">
+        <item>Book1</item>
+        <item>Book2</item>
+        <item>Book3</item>
+        <item>Book4</item>
+        <item>Book5</item>
+        <item>Book6</item>
+        <item>Book7</item>
+        <item>Book8</item>
+        <item>Book9</item>
+        <item>Book10</item>
+    </string-array>
+</resources>

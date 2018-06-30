@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <string name="app_name">AppVille 2.0</string>
+    <string name="applicationId">494708670563462</string>
+    <string name="name">name</string>
+    <string name="welcome">Welcome AppVille</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

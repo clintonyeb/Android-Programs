@@ -1,0 +1,6 @@
+platform :ios, '7.0'
+pod 'Google/AdMob'
+target 'AdMobExample'
+target 'AdMobExampleSwift'
+target 'AdMobExampleTests'
+target 'AdMobExampleSwiftTests'

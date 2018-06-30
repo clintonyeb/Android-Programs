@@ -1,0 +1,7 @@
+#Tue Jan 31 15:00:12 IST 2017
+base.0=/home/clinton/Projects/Android/MaterialDeisgn/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f84f950581ebf4ee2ba8d69c7d9cbbc23abb9251
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/clinton/Projects/Android/MaterialDeisgn/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_33793a93e83d313710bad82778880b553ba1260d/classes.dex
+base.1=/home/clinton/Projects/Android/MaterialDeisgn/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_33793a93e83d313710bad82778880b553ba1260d
+file.0=/home/clinton/Projects/Android/MaterialDeisgn/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f84f950581ebf4ee2ba8d69c7d9cbbc23abb9251/classes.dex

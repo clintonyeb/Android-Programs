@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.holys.allin1.Email">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email-Address:"
+        android:id="@+id/addressText"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_below="@+id/addressText"
+        android:gravity="fill_horizontal"
+        android:ems="10"
+        android:textSize="20sp"
+        android:id="@+id/addressEdit"
+        android:hint="somebody@domain.com"
+        android:inputType="textEmailAddress"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Subject:"
+        android:id="@+id/subjectText"
+        android:layout_below="@+id/addressEdit"
+        android:layout_marginTop="25dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_below="@+id/subjectText"
+        android:gravity="fill_horizontal"
+        android:ems="10"
+        android:textSize="20sp"
+        android:id="@+id/subjectEdit"
+        android:inputType="textEmailSubject"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Body:"
+        android:id="@+id/bodyText"
+        android:layout_below="@+id/subjectEdit"
+        android:layout_marginTop="25dp"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:layout_marginLeft="30dp"
+        android:ems="10"
+        android:id="@+id/bodyEdit"
+        android:layout_below="@+id/bodyText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/bodyEdit"
+        android:layout_below="@+id/bodyEdit"
+        android:text="send"
+        android:onClick="onClick"
+        android:layout_marginTop="50dp"/>
+
+</RelativeLayout>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HomeFlavour</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="order_here">Order Now</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    <string name="header1">HOMEFLAVOUR 69</string>
+    <string name="header2">HOMEFLAVOUR 119</string>
+    <string name="header3">HOMEFLAVOUR 159</string>
+    <string name="header4">HF\'S SPECIALS</string>
+    
+    <string name="description1">4 Piece Roti or Rice, Dal Or 1 Veg (Gravvy), Pickle</string>
+    <string name="description2">4 Pcs Roti, Rice, Dal, 1 Veg (Gravvy), 1 Veg (Dry),
+        Pickle, Green Salad, Papad</string>
+    <string name="description3">4 Pcs Roti, Rice, Dal Fry, 1 Veg (Shahi Paneer), 1 Veg (Dry),
+        Pickle, Green Salad, Papad, Curd, Sweet</string>
+    <string name="description4">Pav Bhaji (Rs.70), Pav Bhaji Special (Rs.110), Dum Biryani
+        (Rs.120), Shahi Biryani (Rs.150)</string>
+
+</resources>

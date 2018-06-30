@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.clinton.light"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <provider
+            android:name="com.example.clinton.light.database.NewsContentProvider"
+            android:authorities="com.example.clinton.light.provider"
+            android:multiprocess="true" />
+
+        <activity
+            android:name="com.example.clinton.light.activities.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.clinton.light.activities.LogInActivty"
+            android:label="@string/login_text"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.clinton.light.activities.Browser"
+            android:label="@string/browser_title"
+            android:parentActivityName="com.example.clinton.light.activities.MainActivity" />
+
+        <service
+            android:name="com.example.clinton.light.fetchData.FetchNewsIntentService"
+            android:exported="false" />
+
+        <provider
+            android:name="com.example.clinton.light.database.DictionaryContentProvider"
+            android:authorities="com.example.clinton.light.provider.dictionary"
+            android:enabled="true"
+            android:exported="true" />
+
+        <receiver
+            android:name="com.example.clinton.light.receivers.TodayWordReceiver"
+            android:enabled="true"
+            android:exported="true" />
+
+        <service
+            android:name="com.example.clinton.light.services.FetchTodayWordService"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.clinton.light.activities.TodayWordActivity"
+            android:parentActivityName="com.example.clinton.light.activities.WordsMenu" />
+        <activity
+            android:name="com.example.clinton.light.activities.WordsMenu"
+            android:label="@string/dictionary_title"
+            android:parentActivityName="com.example.clinton.light.activities.MainActivity" />
+        <activity
+            android:name="com.example.clinton.light.activities.AllRecentActivity"
+            android:parentActivityName="com.example.clinton.light.activities.WordsMenu" />
+        <activity
+            android:name="com.example.clinton.light.activities.DictOther"
+            android:parentActivityName="com.example.clinton.light.activities.WordsMenu" />
+        <activity
+            android:name="com.example.clinton.light.activities.RandomWord"
+            android:parentActivityName="com.example.clinton.light.activities.WordsMenu" />
+    </application>
+
+</manifest>

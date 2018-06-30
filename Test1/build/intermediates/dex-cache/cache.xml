@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/clinton/Android/Test1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/clinton/Android/Test1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_fe9c7b6acff49c89532c56f5a7782815e3052fb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clinton/Android/Test1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/clinton/Android/Test1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_193348298679be3e3825b5da472945848f6754a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clinton/Android/Test1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/clinton/Android/Test1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_3af06cad7fc6389d26bc6b72fa26d3b8f80396d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clinton/Android/Test1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/clinton/Android/Test1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_d134a211168738605b622a00da10ca6d76f85ef4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clinton/Android/Test1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05f400dca3c436d3196125f3983c30ffabf762de">
+        <dex dex="/home/clinton/Android/Test1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_afaf4a2d37cce99d7521d36ad7eae6d78032baad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clinton/Android/Test1/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/clinton/Android/Test1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_b351b325c7537e879027e07bd2d6cdc30b98b14b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clinton/Android/Test1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa58c4dcbb90fbcfcff038b48968b0a04433be61">
+        <dex dex="/home/clinton/Android/Test1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_682ce1bf0552181508cc0d002adce0ce2b706d5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clinton/Android/Test1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/clinton/Android/Test1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_0bd768e17bdda009622a96f4412921c15eff1ceb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clinton/Android/Test1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/clinton/Android/Test1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_5641b86485c65ad0d6af040a07ea5ac24fc78364/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clinton/Android/Test1/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/clinton/Android/Test1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_71b644edd9e9c94d20e7a6dfe00550d5917a3919/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/clinton/Android/Test1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_5f9296523791fb60cee607869879049357b6c052/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clinton/Android/Test1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/clinton/Android/Test1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_d35668232f5c54a1297508962f1fb103c6befead/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clinton/Android/Test1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/clinton/Android/Test1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_c1ead4db06397e7d2a48abf83813c5df8dc48de9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clinton/Android/Test1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/clinton/Android/Test1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_d560cbfb5042a59aa2c0c3ad182a9d32bec474d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clinton/Android/Test1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/clinton/Android/Test1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_cce45947b657568f455db1d3bf517d6d4dac7e39/classes.dex" />
+    </item>
+
+</items>

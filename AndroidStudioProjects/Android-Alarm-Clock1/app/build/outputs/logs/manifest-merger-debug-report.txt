@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:15:1-82:12
+	package
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:16:5-34
+		INJECTED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:18:5-30
+		INJECTED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:17:5-28
+		INJECTED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:15:11-69
+uses-sdk
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:appcompat-v7:18.0.0] /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/AndroidManifest.xml:18:5-42
+	android:targetSdkVersion
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:22:9-38
+		INJECTED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:21:9-34
+		INJECTED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:24:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:25:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:26:2-78
+	android:name
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:26:19-75
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:27:2-71
+	android:name
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:27:19-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:28:2-76
+	android:name
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:28:19-74
+application
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:30:5-80:19
+MERGED from [com.android.support:appcompat-v7:18.0.0] /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/AndroidManifest.xml:19:5-20
+	android:label
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:33:9-41
+	android:allowBackup
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:31:9-35
+	android:icon
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:32:9-45
+	android:theme
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:34:9-67
+activity#za.co.neilson.alarm.AlarmActivity
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:36:9-43:20
+	android:label
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:37:13-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:41:27-74
+activity#za.co.neilson.alarm.preferences.AlarmPreferencesActivity
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:45:9-53:20
+	android:label
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:47:13-45
+	android:parentActivityName
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:48:13-75
+	android:name
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:46:13-84
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:50:10-52:66
+	android:value
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:52:14-63
+	android:name
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:51:14-60
+service#za.co.neilson.alarm.service.AlarmService
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:55:9-61:19
+	android:process
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:56:13-65
+	android:label
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:59:13-45
+	android:icon
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:58:13-49
+	android:name
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:57:13-68
+receiver#za.co.neilson.alarm.service.AlarmServiceBroadcastReciever
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:62:3-66:20
+	android:name
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:62:13-85
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:63:13-65:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:64:17-79
+	android:name
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:64:25-76
+activity#za.co.neilson.alarm.alert.AlarmAlertActivity
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:68:9-72:20
+	android:screenOrientation
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:71:13-49
+	android:label
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:70:13-45
+	android:name
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:69:13-74
+receiver#za.co.neilson.alarm.alert.AlarmAlertBroadcastReciever
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:73:3-74:20
+	android:name
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:73:13-81
+receiver#za.co.neilson.alarm.telephony.PhoneStateChangedBroadcastReciever
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:75:9-79:20
+	android:name
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:75:19-100
+intent-filter#android.intent.action.PHONE_STATE
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:76:13-78:29
+action#android.intent.action.PHONE_STATE
+ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:77:17-76
+	android:name
+		ADDED from /home/clinton/AndroidStudioProjects/Android-Alarm-Clock1/app/src/main/AndroidManifest.xml:77:25-73

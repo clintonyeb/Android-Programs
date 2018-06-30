@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.clinton.light">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM"/>
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <provider
+            android:name=".database.NewsContentProvider"
+            android:authorities="com.example.clinton.light.provider"
+            android:multiprocess="true" />
+
+        <activity
+            android:name=".activities.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.LogInActivty"
+            android:label="@string/login_text"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.Browser"
+            android:label="@string/browser_title"
+            android:parentActivityName=".activities.MainActivity" />
+
+        <service
+            android:name=".fetchData.FetchNewsIntentService"
+            android:exported="false" />
+
+        <provider
+            android:name=".database.DictionaryContentProvider"
+            android:authorities="com.example.clinton.light.provider.dictionary"
+            android:enabled="true"
+            android:exported="true" />
+
+        <receiver
+            android:name=".receivers.TodayWordReceiver"
+            android:enabled="true"
+            android:exported="true" />
+
+        <service
+            android:name=".services.FetchTodayWordService"
+            android:exported="false" />
+
+        <activity
+            android:name=".activities.TodayWordActivity"
+            android:parentActivityName=".activities.WordsMenu" />
+        <activity
+            android:name=".activities.WordsMenu"
+            android:label="@string/dictionary_title"
+            android:parentActivityName=".activities.MainActivity" />
+        <activity
+            android:name=".activities.AllRecentActivity"
+            android:parentActivityName=".activities.WordsMenu" />
+        <activity
+            android:name=".activities.DictOther"
+            android:parentActivityName=".activities.WordsMenu" />
+        <activity
+            android:name=".activities.RandomWord"
+            android:parentActivityName=".activities.WordsMenu"/>
+    </application>
+
+</manifest>

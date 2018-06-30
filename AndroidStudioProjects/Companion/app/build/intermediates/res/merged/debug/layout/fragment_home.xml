@@ -1,0 +1,59 @@
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lightGray"
+    tools:context="com.example.clinton.companion.MainFragments.HomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <include
+            layout="@layout/recy_view"
+            android:id="@+id/quoteRecyclerView"/>
+
+        <ViewFlipper
+            android:id="@+id/viewFlipper"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autoStart="true"
+            android:flipInterval="6300">
+
+            <include
+                layout="@layout/recy_view"
+                android:id="@+id/news_life"/>
+
+
+            <include
+                layout="@layout/recy_view"
+                android:id="@+id/news_science"/>
+
+            <include
+                layout="@layout/recy_view"
+                android:id="@+id/news_sport"/>
+
+
+            <include
+                layout="@layout/recy_view"
+                android:id="@+id/news_culture"/>
+
+            <include
+                layout="@layout/recy_view"
+                android:id="@+id/news_world"/>
+
+
+            <include
+                layout="@layout/recy_view"
+                android:id="@+id/dictionary_view"/>
+
+            <include
+                layout="@layout/recy_view"
+                android:id="@+id/random_word_view"/>
+        </ViewFlipper>
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>
+

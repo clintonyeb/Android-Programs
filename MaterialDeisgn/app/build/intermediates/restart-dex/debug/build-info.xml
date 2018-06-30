@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="21"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="8505648899327"
+    token="8338477909194237228"
+    verifier="METHOD_ADDED" >
+
+    <task
+        name="javac"
+        duration="211" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="57" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/home/clinton/Projects/Android/MaterialDeisgn/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="8020947119604"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/clinton/Projects/Android/MaterialDeisgn/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="8505648899327"
+        verifier="METHOD_ADDED" >
+        <artifact
+            location="/home/clinton/Projects/Android/MaterialDeisgn/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">All In 1</string>
+    <string name="action">GO</string>
+    <string name="browse">Browse</string>
+    <string name="picture">Take a Picture</string>
+    <string name="call">Make a Call</string>
+    <string name="mail">Send Mail</string>
+    <string name="contacts">View Contacts</string>
+    <string name="sms">Send SMS</string>
+    <string name="facebook">Open Facebook</string>
+    <string name="twitter">Open Twitter</string>
+</resources>

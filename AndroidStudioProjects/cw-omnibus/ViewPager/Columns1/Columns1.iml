@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 18 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="android-support-v412" level="project" />
+    <orderEntry type="library" name="libs10" level="project" />
+    <orderEntry type="library" name="android-support-v132" level="project" />
+    <orderEntry type="library" name="android-support-v410" level="project" />
+    <orderEntry type="library" name="android-support-v134" level="project" />
+    <orderEntry type="library" name="android-support-v49" level="project" />
+    <orderEntry type="library" name="android-support-v411" level="project" />
+    <orderEntry type="library" name="libs8" level="project" />
+    <orderEntry type="library" name="android-support-v48" level="project" />
+    <orderEntry type="library" name="libs16" level="project" />
+    <orderEntry type="library" name="libs17" level="project" />
+    <orderEntry type="library" name="android-support-v46" level="project" />
+    <orderEntry type="library" name="libs6" level="project" />
+    <orderEntry type="library" name="android-support-v43" level="project" />
+    <orderEntry type="library" name="android-support-v13" level="project" />
+    <orderEntry type="library" name="android-support-v135" level="project" />
+    <orderEntry type="library" name="libs9" level="project" />
+    <orderEntry type="library" name="android-support-v47" level="project" />
+    <orderEntry type="library" name="android-support-v414" level="project" />
+    <orderEntry type="library" name="android-support-v136" level="project" />
+    <orderEntry type="library" name="libs14" level="project" />
+    <orderEntry type="library" name="android-support-v131" level="project" />
+    <orderEntry type="library" name="android-support-v41" level="project" />
+    <orderEntry type="library" name="android-support-v4" level="project" />
+    <orderEntry type="library" name="android-support-v415" level="project" />
+    <orderEntry type="library" name="libs2" level="project" />
+    <orderEntry type="library" name="libs1" level="project" />
+    <orderEntry type="library" name="android-support-v45" level="project" />
+    <orderEntry type="library" name="android-support-v413" level="project" />
+    <orderEntry type="library" name="android-support-v416" level="project" />
+    <orderEntry type="library" name="libs13" level="project" />
+    <orderEntry type="library" name="libs12" level="project" />
+    <orderEntry type="library" name="libs" level="project" />
+    <orderEntry type="library" name="android-support-v44" level="project" />
+    <orderEntry type="library" name="libs3" level="project" />
+    <orderEntry type="library" name="libs11" level="project" />
+    <orderEntry type="library" name="android-support-v42" level="project" />
+    <orderEntry type="library" name="libs7" level="project" />
+    <orderEntry type="library" name="android-support-v133" level="project" />
+    <orderEntry type="library" name="libs4" level="project" />
+    <orderEntry type="module" module-name="ViewPagerIndicator" />
+  </component>
+</module>

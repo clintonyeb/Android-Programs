@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\SunShine\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail_fragment.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\SunShine\\app\\src\\main\\res\\menu\\detail_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\SunShine\\app\\build\\intermediates\\res\\merged\\debug\\menu\\forecast_fragment.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\SunShine\\app\\src\\main\\res\\menu\\forecast_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\SunShine\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_details.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\SunShine\\app\\src\\main\\res\\menu\\menu_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\SunShine\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\SunShine\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

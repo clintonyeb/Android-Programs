@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="alarm_set">
+    <item msgid="5163476010406761625">"지금부터 1분 미만 후로 알람이 설정됩니다."</item>
+    <item msgid="7110525731259629055">"지금부터 <ns1:g id="DAYS">%1$s</ns1:g> 후로 알람이 설정됩니다."</item>
+    <item msgid="7003982794086186185">"지금부터 <ns1:g id="HOURS">%2$s</ns1:g> 후로 알람이 설정됩니다."</item>
+    <item msgid="7311021123230077742">"지금부터 <ns1:g id="DAYS">%1$s</ns1:g> <ns1:g id="HOURS">%2$s</ns1:g> 후로 알람이 설정됩니다."</item>
+    <item msgid="8431715191823114872">"지금부터 <ns1:g id="MINUTES">%3$s</ns1:g> 후로 알람이 설정됩니다."</item>
+    <item msgid="3244151088673185428">"지금부터 <ns1:g id="DAYS">%1$s</ns1:g> <ns1:g id="MINUTES">%3$s</ns1:g> 후로 알람이 설정됩니다."</item>
+    <item msgid="3663661342600168814">"지금부터 <ns1:g id="HOURS">%2$s</ns1:g> <ns1:g id="MINUTES">%3$s</ns1:g> 후로 알람이 설정됩니다."</item>
+    <item msgid="7779544127785487304">"지금부터 <ns1:g id="DAYS">%1$s</ns1:g> <ns1:g id="HOURS">%2$s</ns1:g> <ns1:g id="MINUTES">%3$s</ns1:g> 후로 알람이 설정됩니다."</item>
+  </string-array>
+    <string-array name="snooze_duration_entries">
+    <item msgid="8337408933053603125">"5분"</item>
+    <item msgid="5294206441496024610">"10분"</item>
+    <item msgid="2165904039211935470">"15분"</item>
+    <item msgid="7248236967714374250">"20분"</item>
+    <item msgid="738394723625179423">"25분"</item>
+    <item msgid="1180222611308391616">"30분"</item>
+  </string-array>
+    <string-array name="snooze_duration_values">
+    <item msgid="3655014754453084122">"5"</item>
+    <item msgid="8939029597449573449">"10"</item>
+    <item msgid="3922647341176353315">"15"</item>
+    <item msgid="5821804105985044459">"20"</item>
+    <item msgid="6048861883552402852">"25"</item>
+    <item msgid="2740866721232379791">"30"</item>
+  </string-array>
+    <string-array name="volume_button_setting_entries">
+    <item msgid="4520420953175098625">"없음"</item>
+    <item msgid="7111908302622811168">"다시 울림"</item>
+    <item msgid="8573552194573068996">"취소"</item>
+  </string-array>
+    <string-array name="volume_button_setting_values">
+    <item msgid="4851033050639608752">"0"</item>
+    <item msgid="3204893476515513084">"1"</item>
+    <item msgid="7687709558968154577">"2"</item>
+  </string-array>
+    <string msgid="5976616107390962899" name="add_alarm">"알람 추가"</string>
+    <string msgid="7918075929961104202" name="alarm_alert_alert_silenced">"<ns1:g id="MINUTES">%d</ns1:g>분 후 알람이 중지됨"</string>
+    <string msgid="4942914605480888820" name="alarm_alert_dismiss_text">"해제"</string>
+    <string msgid="656470966696912087" name="alarm_alert_snooze_set">"<ns1:g id="MINUTES">%d</ns1:g>분 동안 알람 일시 중지"</string>
+    <string msgid="1774416052207651584" name="alarm_alert_snooze_text">"다시 울림"</string>
+    <string msgid="6042500263899922832" name="alarm_in_silent_mode_summary">"무음 모드에서도 알람이 울리도록 설정"</string>
+    <string msgid="3892612644543516705" name="alarm_in_silent_mode_title">"무음 모드에서 알람 설정"</string>
+    <string msgid="5404083762646377829" name="alarm_notify_snooze_label">"<ns1:g id="LABEL">%s</ns1:g>(알람 일시 중지됨)"</string>
+    <string msgid="8004830999152609519" name="alarm_notify_snooze_text">"<ns1:g id="TIME">%s</ns1:g>으로 알람이 설정되었습니다. 취소하려면 선택하세요."</string>
+    <string msgid="4146350965933990093" name="alarm_notify_text">"알람을 일시 중지하거나 해제하려면 선택하세요."</string>
+    <string msgid="7242985466344233206" name="alarm_repeat">"반복"</string>
+    <string msgid="3476686921490362230" name="alarm_vibrate">"진동"</string>
+    <string msgid="8957440373896242438" name="alarm_volume_summary">"알람 볼륨 설정"</string>
+    <string msgid="8506245173912428522" name="alarm_volume_title">"알람 볼륨"</string>
+    <string msgid="6539852766423700221" name="alert">"벨소리"</string>
+    <string msgid="1670505720837152766" name="analog_gadget">"아날로그 시계"</string>
+    <string msgid="6642875149600019623" name="app_label">"알람"</string>
+    <string msgid="3118560284915857690" name="clock_instructions">"표시할 시계를 선택하세요."</string>
+    <string msgid="7984755014526510295" name="day">"1일"</string>
+    <string msgid="971998564991636532" name="day_concat">", "</string>
+    <string msgid="2070509222727852210" name="days">"<ns1:g id="DAYS">%s</ns1:g>일"</string>
+    <string msgid="5590025289805630372" name="default_label">"알람"</string>
+    <string msgid="4549726190682964245" name="default_ringtone_setting_title">"기본 벨소리 설정"</string>
+    <string msgid="3457780990646206817" name="delete_alarm">"알람 삭제"</string>
+    <string msgid="4237696873219106907" name="delete_alarm_confirm">"알람이 삭제됩니다."</string>
+    <string msgid="6665528499886549648" name="disable_alarm">"알람 사용 중지"</string>
+    <string msgid="6509722361933858451" name="done">"완료"</string>
+    <string msgid="7442658245797418741" name="enable_alarm">"알람 사용"</string>
+    <string msgid="1058994798884544691" name="every_day">"매일"</string>
+    <string msgid="3217727306480505694" name="hide_clock">"시계 숨기기"</string>
+    <string msgid="2546819039651509323" name="hour">"1시간"</string>
+    <string msgid="2071487018566991613" name="hours">"<ns1:g id="HOURS">%s</ns1:g>시간"</string>
+    <string msgid="162189613902857319" name="label">"라벨"</string>
+    <string msgid="2486157997434653710" name="minute">"1분"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g>분"</string>
+    <string msgid="54104287800571769" name="never">"반복 안함"</string>
+    <string msgid="9100911171235162926" name="revert">"되돌리기"</string>
+    <string msgid="9148359866152726808" name="set_alarm">"알람 설정"</string>
+    <string msgid="5849739030579520686" name="settings">"설정"</string>
+    <string msgid="8358759982675616915" name="show_clock">"시계 표시"</string>
+    <string msgid="8605302849408279221" name="silent_alarm_summary">"무음"</string>
+    <string msgid="1471249885139952670" name="snooze_duration_title">"다시 울림 간격"</string>
+    <string msgid="8067216534232296518" name="time">"시간"</string>
+    <string msgid="1594641247799573198" name="volume_button_setting_summary">"알람이 울리는 동안 사이드 버튼을 눌렀을 때의 동작 설정"</string>
+    <string msgid="1892885285888644234" name="volume_button_setting_title">"사이드 버튼 동작"</string>
+</resources>

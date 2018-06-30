@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_icon.png",
+        "source": "/home/clinton/AndroidStudioProjects/Companion/app/src/main/res/mipmap-xxxhdpi/ic_icon.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/home/clinton/AndroidStudioProjects/Companion/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

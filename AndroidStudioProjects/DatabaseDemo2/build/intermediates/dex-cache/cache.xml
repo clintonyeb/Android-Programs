@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\holys\AndroidStudioProjects\DatabaseDemo2\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\holys\AndroidStudioProjects\DatabaseDemo2\app\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.0_dbb7ba90d1852a58774ba5a2d664a4ab6608518a.jar" />
+    </item>
+
+</items>

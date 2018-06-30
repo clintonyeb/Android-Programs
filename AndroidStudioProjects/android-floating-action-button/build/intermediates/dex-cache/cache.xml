@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/clinton/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/clinton/AndroidStudioProjects/android-floating-action-button/sample/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-1386205726d78f8029b1fdd8621531169e195af4.jar" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/android-floating-action-button/sample/build/intermediates/exploded-aar/android-floating-action-button/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d766c3bdb3455d8af05ffb4078bad2246dc3abe3">
+        <dex dex="/home/clinton/AndroidStudioProjects/android-floating-action-button/sample/build/intermediates/pre-dexed/debug/classes-5dc77df1a870c8e1b0d201f81b3a70a323a2db5c.jar" />
+    </item>
+
+</items>

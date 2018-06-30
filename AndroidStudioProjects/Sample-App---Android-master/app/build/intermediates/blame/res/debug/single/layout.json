@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabstore.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\tabstore.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inventory_list_holder.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\inventory_list_holder.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\msg.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_activity.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\game_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dynamic_list_holder.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\dynamic_list_holder.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\radius_list.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\radius_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_row_right.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\chat_row_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dynamic_list.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\dynamic_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_product_item.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\grid_product_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_frag.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\grid_frag.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friends_list.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\friends_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_row_left.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\chat_row_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_host.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\tab_host.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inventory_list.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\inventory_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\share_dialog.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\share_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_store_item.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\grid_store_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity_egg.xml",
+        "source": "C:\\Users\\holys\\AndroidStudioProjects\\Sample-App---Android-master\\app\\src\\main\\res\\layout\\main_activity_egg.xml"
+    }
+]

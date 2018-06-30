@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/res/merged/debug/menu/news_card_menu.xml",
+        "source": "/home/clinton/AndroidStudioProjects/Companion/app/src/main/res/menu/news_card_menu.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/clinton/AndroidStudioProjects/Companion/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/res/merged/debug/menu/share_menu.xml",
+        "source": "/home/clinton/AndroidStudioProjects/Companion/app/src/main/res/menu/share_menu.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/res/merged/debug/menu/searchview_menu.xml",
+        "source": "/home/clinton/AndroidStudioProjects/Companion/app/src/main/res/menu/searchview_menu.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/res/merged/debug/menu/news_menu.xml",
+        "source": "/home/clinton/AndroidStudioProjects/Companion/app/src/main/res/menu/news_menu.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/res/merged/debug/menu/dict_card.xml",
+        "source": "/home/clinton/AndroidStudioProjects/Companion/app/src/main/res/menu/dict_card.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/home/clinton/AndroidStudioProjects/Companion/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/res/merged/debug/menu/dict_menu.xml",
+        "source": "/home/clinton/AndroidStudioProjects/Companion/app/src/main/res/menu/dict_menu.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/res/merged/debug/menu/refresh_menu.xml",
+        "source": "/home/clinton/AndroidStudioProjects/Companion/app/src/main/res/menu/refresh_menu.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/Companion/app/build/intermediates/res/merged/debug/menu/more_menu.xml",
+        "source": "/home/clinton/AndroidStudioProjects/Companion/app/src/main/res/menu/more_menu.xml"
+    }
+]

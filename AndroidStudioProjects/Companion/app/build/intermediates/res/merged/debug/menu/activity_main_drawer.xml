@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/home_page"
+            android:icon="@drawable/ic_action_home"
+            android:title="@string/app_name" />
+    </group>
+
+    <group>
+        <item
+            android:id="@+id/news_header"
+            android:title="@string/news">
+
+            <menu>
+                <item
+                    android:id="@+id/main_news"
+                    android:icon="@drawable/ic_action_news"
+                    android:title="@string/str_news" />
+
+                <item
+                    android:id="@+id/news_favorites"
+                    android:icon="@drawable/ic_favorite"
+                    android:title="@string/favorites" />
+
+            </menu>
+        </item>
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="@string/dictionary">
+            <menu>
+
+                <item
+                    android:id="@+id/main_dict"
+                    android:icon="@drawable/ic_action_dictionary"
+                    android:title="@string/search_dictionary" />
+
+                <item
+                    android:id="@+id/all_dict"
+                    android:icon="@drawable/ic_more_menu"
+                    android:title="@string/all_dictionary" />
+
+            </menu>
+        </item>
+
+    </group>
+    <group android:checkableBehavior="single">
+        <item android:title="@string/schedule">
+            <menu>
+                <item
+                    android:id="@+id/remindme"
+                    android:icon="@drawable/ic_action_notifications"
+                    android:title="@string/str_notify" />
+
+                <item
+                    android:icon="@drawable/ic_action_school"
+                    android:title="@string/str_school" />
+
+                <item
+                    android:icon="@drawable/ic_action_school"
+                    android:title="@string/todo" />
+            </menu>
+
+        </item>
+
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:title="@string/utilities">
+            <menu>
+                <item
+                    android:icon="@drawable/ic_action_profile"
+                    android:title="@string/str_profile" />
+                <item
+                    android:icon="@drawable/ic_action_help"
+                    android:title="@string/str_help" />
+                <item
+                    android:id="@+id/settings"
+                    android:icon="@drawable/ic_action_settings"
+                    android:title="@string/str_settings" />
+                <item
+                    android:icon="@drawable/ic_action_feedback"
+                    android:title="@string/str_feed" />
+                <item
+                    android:icon="@drawable/ic_action_logout"
+                    android:title="@string/str_logout" />
+            </menu>
+        </item>
+
+
+    </group>
+</menu>

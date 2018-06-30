@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/circle2.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/circle2.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_clock_face.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/ic_menu_clock_face.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/clockdroid2_hour.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/clockdroid2_hour.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/circle3.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/circle3.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/circle0.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/circle0.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/appwidget_clock_hour.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/appwidget_clock_hour.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/clockdroids_hour.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/clockdroids_hour.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/stat_notify_alarm.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/stat_notify_alarm.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/clockgoog_dial.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/clockgoog_dial.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher_alarmclock.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/ic_launcher_alarmclock.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/clockdroids_dial.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/clockdroids_dial.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/clockgoog_hour.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/clockgoog_hour.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/clock_dial.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/clock_dial.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/clockdroids_minute.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/clockdroids_minute.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/circle1.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/circle1.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/clock_hour.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/clock_hour.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_widget_analog_clock.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/ic_widget_analog_clock.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/appwidget_clock_minute.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/appwidget_clock_minute.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/clockdroid2_minute.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/clockdroid2_minute.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/dialog.9.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/dialog.9.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/clock_minute.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/clock_minute.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/appwidget_clock_dial.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/appwidget_clock_dial.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/clockdroid2_dial.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/clockdroid2_dial.png"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/clockgoog_minute.png",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/drawable-mdpi/clockgoog_minute.png"
+    }
+]

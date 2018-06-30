@@ -1,0 +1,6 @@
+# AnalyticsExample
+platform :ios, '7.0'
+pod 'Google/Analytics'
+target 'AnalyticsExample'
+target 'AnalyticsExampleSwift'
+target 'AnalyticsExampleTests'

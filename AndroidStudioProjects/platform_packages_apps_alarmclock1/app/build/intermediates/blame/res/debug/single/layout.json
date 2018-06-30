@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/layout/analog_appwidget.xml",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/layout/analog_appwidget.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/layout/clock_googly.xml",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/layout/clock_googly.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/layout/clock_droid2.xml",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/layout/clock_droid2.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/layout/save_cancel_alarm.xml",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/layout/save_cancel_alarm.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/layout/alarm_clock.xml",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/layout/alarm_clock.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/layout/context_menu_header.xml",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/layout/context_menu_header.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/layout/clock_droids.xml",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/layout/clock_droids.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/layout/clock_basic_bw.xml",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/layout/clock_basic_bw.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/layout/clockpicker.xml",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/layout/clockpicker.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/layout/digital_clock.xml",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/layout/digital_clock.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/layout/alarm_alert.xml",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/layout/alarm_alert.xml"
+    },
+    {
+        "merged": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/build/intermediates/res/merged/debug/layout/alarm_time.xml",
+        "source": "/home/clinton/AndroidStudioProjects/platform_packages_apps_alarmclock1/app/src/main/res/layout/alarm_time.xml"
+    }
+]

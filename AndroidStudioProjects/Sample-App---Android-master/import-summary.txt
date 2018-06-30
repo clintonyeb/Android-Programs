@@ -1,0 +1,140 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* .idea\
+* .idea\.name
+* .idea\Sample-App---Android-master.iml
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* AdNetwork\
+* AdNetwork\SSA-production-sdk\
+* AdNetwork\SSA-production-sdk\.DS_Store
+* AdNetwork\SSA-production-sdk\.gitignore
+* AdNetwork\SSA-production-sdk\AndroidManifest.xml
+* AdNetwork\SSA-production-sdk\lint.xml
+* AdNetwork\SSA-production-sdk\proguard-project.txt
+* AdNetwork\SSA-production-sdk\project.properties
+* AdNetwork\SSA-production-sdk\res\
+* AdNetwork\SSA-production-sdk\res\drawable-hdpi\
+* AdNetwork\SSA-production-sdk\res\drawable-hdpi\ic_launcher.png
+* AdNetwork\SSA-production-sdk\res\drawable-hdpi\pause.png
+* AdNetwork\SSA-production-sdk\res\drawable-hdpi\play.png
+* AdNetwork\SSA-production-sdk\res\drawable-hdpi\xbutton.png
+* AdNetwork\SSA-production-sdk\res\drawable-hdpi\zoomin.png
+* AdNetwork\SSA-production-sdk\res\drawable-hdpi\zoomout.png
+* AdNetwork\SSA-production-sdk\res\drawable-ldpi\
+* AdNetwork\SSA-production-sdk\res\drawable-ldpi\ic_launcher.png
+* AdNetwork\SSA-production-sdk\res\drawable-mdpi\
+* AdNetwork\SSA-production-sdk\res\drawable-mdpi\ic_launcher.png
+* AdNetwork\SSA-production-sdk\res\drawable-xhdpi\
+* AdNetwork\SSA-production-sdk\res\drawable-xhdpi\ic_launcher.png
+* AdNetwork\SSA-production-sdk\res\layout\
+* AdNetwork\SSA-production-sdk\res\layout\custom_screen.xml
+* AdNetwork\SSA-production-sdk\res\layout\video_loading_progress.xml
+* AdNetwork\SSA-production-sdk\res\raw\
+* AdNetwork\SSA-production-sdk\res\raw\default_video_poster.png
+* AdNetwork\SSA-production-sdk\res\values\
+* AdNetwork\SSA-production-sdk\res\values\strings.xml
+* AdNetwork\SSA-production-sdk\src\
+* AdNetwork\SSA-production-sdk\src\com\
+* AdNetwork\SSA-production-sdk\src\com\supersonicads\
+* AdNetwork\SSA-production-sdk\src\com\supersonicads\sdk\
+* AdNetwork\SSA-production-sdk\src\com\supersonicads\sdk\android\
+* AdNetwork\SSA-production-sdk\src\com\supersonicads\sdk\android\BrandConnectParameters.java
+* AdNetwork\SSA-production-sdk\src\com\supersonicads\sdk\android\Constants.java
+* AdNetwork\SSA-production-sdk\src\com\supersonicads\sdk\android\DeviceProperties.java
+* AdNetwork\SSA-production-sdk\src\com\supersonicads\sdk\android\Logger.java
+* AdNetwork\SSA-production-sdk\src\com\supersonicads\sdk\android\SupersonicAdsAdvertiserAgent.java
+* AdNetwork\SSA-production-sdk\src\com\supersonicads\sdk\android\SupersonicAdsPublisherAgent.java
+* AdNetwork\SSA-production-sdk\src\com\supersonicads\sdk\android\WebViewActivity.java
+* AdNetwork\SSA-production-sdk\src\com\supersonicads\sdk\android\listeners\
+* AdNetwork\SSA-production-sdk\src\com\supersonicads\sdk\android\listeners\OnBrandConnectStateChangedListener.java
+* AdNetwork\SSA-production-sdk\src\com\supersonicads\sdk\android\listeners\OnCurrencyManagementChangedListener.java
+* AdNetwork\SSA-production-sdk\src\org\
+* AdNetwork\SSA-production-sdk\src\org\itri\
+* AdNetwork\SSA-production-sdk\src\org\itri\html5webview\
+* AdNetwork\SSA-production-sdk\src\org\itri\html5webview\HTML5WebView.java
+* AdNetwork\SSA-production-sdk\src\org\json\
+* AdNetwork\SSA-production-sdk\src\org\json\simple\
+* AdNetwork\SSA-production-sdk\src\org\json\simple\ItemList.java
+* AdNetwork\SSA-production-sdk\src\org\json\simple\JSONArray.java
+* AdNetwork\SSA-production-sdk\src\org\json\simple\JSONAware.java
+* AdNetwork\SSA-production-sdk\src\org\json\simple\JSONObject.java
+* AdNetwork\SSA-production-sdk\src\org\json\simple\JSONStreamAware.java
+* AdNetwork\SSA-production-sdk\src\org\json\simple\JSONValue.java
+* AdNetwork\SSA-production-sdk\src\org\json\simple\parser\
+* AdNetwork\SSA-production-sdk\src\org\json\simple\parser\ContainerFactory.java
+* AdNetwork\SSA-production-sdk\src\org\json\simple\parser\ContentHandler.java
+* AdNetwork\SSA-production-sdk\src\org\json\simple\parser\JSONParser.java
+* AdNetwork\SSA-production-sdk\src\org\json\simple\parser\ParseException.java
+* AdNetwork\SSA-production-sdk\src\org\json\simple\parser\Yylex.java
+* AdNetwork\SSA-production-sdk\src\org\json\simple\parser\Yytoken.java
+* AppVilleEgg
+* ApplicasaFramework.zip
+* README.md
+* ant.properties
+* build.xml
+* debug.keystore
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:23.1.1
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* ApplicasaSDK\ => app\src\main\java\
+* ApplicasaSDK\com\android\vending\billing\IInAppBillingService.aidl => app\src\main\aidl\com\android\vending\billing\IInAppBillingService.aidl
+* assets\ => app\src\main\assets\
+* libs\AppNextSDK.jar => app\libs\AppNextSDK.jar
+* libs\armeabi\libnmsp_speex.so => app\src\main\jniLibs\armeabi\libnmsp_speex.so
+* libs\chartboost.jar => app\libs\chartboost.jar
+* libs\LiAmazonFramework.jar => app\libs\LiAmazonFramework.jar
+* libs\LiCoreFramework.jar => app\libs\LiCoreFramework.jar
+* libs\MMSDK.jar => app\libs\MMSDK.jar
+* libs\nmdp_speech_kit.jar => app\libs\nmdp_speech_kit.jar
+* libs\sponsorpay-android-sdk.jar => app\libs\sponsorpay-android-sdk.jar
+* libs\ssa-production-sdk.jar => app\libs\ssa-production-sdk.jar
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

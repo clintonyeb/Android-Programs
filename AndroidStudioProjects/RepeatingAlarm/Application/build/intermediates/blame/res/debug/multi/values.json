@@ -1,0 +1,555 @@
+[
+    {
+        "outputFile": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 60,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 61,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 61,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 61,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 61,
+                        "endOffset": 462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 63,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 467,
+                        "endColumn": 63,
+                        "endOffset": 526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 2622,
+                    "endColumn": 58,
+                    "endOffset": 2676
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1380,
+                        "endColumn": 58,
+                        "endOffset": 1434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 2681,
+                    "endColumn": 56,
+                    "endOffset": 2733
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1439,
+                        "endColumn": 56,
+                        "endOffset": 1491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 2738,
+                    "endColumn": 53,
+                    "endOffset": 2787
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1496,
+                        "endColumn": 53,
+                        "endOffset": 1545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 2792,
+                    "endColumn": 42,
+                    "endOffset": 2830
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 1980,
+                        "endColumn": 42,
+                        "endOffset": 2018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2835,
+                    "endColumn": 69,
+                    "endOffset": 2900
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endColumn": 69,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2905,
+                    "endColumn": 42,
+                    "endOffset": 2943
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 42,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2948,
+                    "endColumn": 43,
+                    "endOffset": 2987
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 43,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2992,
+                    "endColumn": 44,
+                    "endOffset": 3032
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 44,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 3037,
+                    "endColumn": 42,
+                    "endOffset": 3075
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 42,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 3080,
+                    "endColumn": 41,
+                    "endOffset": 3117
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 41,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 3122,
+                    "endColumn": 67,
+                    "endOffset": 3185
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/src/main/res/values/template-dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 67,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3190,
+                    "endColumn": 51,
+                    "endOffset": 3237
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 51,
+                        "endOffset": 694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3242,
+                    "endLine": 30,
+                    "endColumn": 13,
+                    "endOffset": 3484
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 699,
+                        "endLine": 28,
+                        "endColumn": 13,
+                        "endOffset": 953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3489,
+                    "endColumn": 51,
+                    "endOffset": 3536
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 8,
+                        "startOffset": 651,
+                        "endColumn": 55,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3541,
+                    "endColumn": 48,
+                    "endOffset": 3585
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 718,
+                        "endColumn": 49,
+                        "endOffset": 763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3590,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 4051
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1777,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 2238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4056,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 4177
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2243,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 2364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4182,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 4305
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2369,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 2492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4310,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 4425
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1564,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 1679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4430,
+                    "endColumn": 64,
+                    "endOffset": 4490
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 65,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4495,
+                    "endColumn": 26,
+                    "endOffset": 4517
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 797,
+                        "endColumn": 27,
+                        "endOffset": 820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4522,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 4713
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 826,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4718,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 4991
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1023,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 1296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4996,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 5251
+                },
+                "from": {
+                    "file": "/home/clinton/AndroidStudioProjects/RepeatingAlarm/Application/src/main/res/values/template-styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1303,
+                        "endLine": 44,
+                        "endColumn": 12,
+                        "endOffset": 1558
+                    }
+                }
+            }
+        ]
+    }
+]

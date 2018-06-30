@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/clinton/AndroidStudioProjects/recyclerview-playground/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/clinton/AndroidStudioProjects/recyclerview-playground/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_339293fedbaa405cc67ee97584a65b3f49837355/classes.dex" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/recyclerview-playground/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/clinton/AndroidStudioProjects/recyclerview-playground/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_cffab13ad393a96b9f4f80cde12bc12f33cacac4/classes.dex" />
+    </item>
+    <item
+        jar="/home/clinton/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/clinton/AndroidStudioProjects/recyclerview-playground/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_f8fc2dd245c6e47ee21ffe8f8831744e9b978340/classes.dex" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/recyclerview-playground/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="7ed5d94b53579e1e0109fc20eccb2b1ec9f0fe6e">
+        <dex dex="/home/clinton/AndroidStudioProjects/recyclerview-playground/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_572959bb6bf2d32b61da9e35c140ee5bfb4b5179/classes.dex" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/recyclerview-playground/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/clinton/AndroidStudioProjects/recyclerview-playground/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_31164caee5ae0f65b9fed3e1a12a50f701a2ac43/classes.dex" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/recyclerview-playground/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d7c74a843437e6231d17f6aa7ada7c0ba0f973f7">
+        <dex dex="/home/clinton/AndroidStudioProjects/recyclerview-playground/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a4b815cb0e09b6d73cba286104e98aa82aa678ae/classes.dex" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/recyclerview-playground/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/clinton/AndroidStudioProjects/recyclerview-playground/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_528c31822af4fbe114b1215a7110e678f35040e9/classes.dex" />
+    </item>
+
+</items>

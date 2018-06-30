@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.appvilleegg"
+        minSdkVersion 10
+        targetSdkVersion 15
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:23.1.1'
+    compile files('libs/AppNextSDK.jar')
+    compile files('libs/chartboost.jar')
+    compile files('libs/LiAmazonFramework.jar')
+    compile files('libs/LiCoreFramework.jar')
+    compile files('libs/MMSDK.jar')
+    compile files('libs/nmdp_speech_kit.jar')
+    compile files('libs/sponsorpay-android-sdk.jar')
+    compile files('libs/ssa-production-sdk.jar')
+}

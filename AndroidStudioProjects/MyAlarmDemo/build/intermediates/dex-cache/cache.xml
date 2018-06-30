@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/clinton/AndroidStudioProjects/MyAlarmDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/clinton/AndroidStudioProjects/MyAlarmDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_ec2d83ff8db6e8d3932d2dfc2c5ce6ad4f109738.jar" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/MyAlarmDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/clinton/AndroidStudioProjects/MyAlarmDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_2978b42bb440cba80736ab6ba260baf8d517a9cb.jar" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/MyAlarmDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a198fb91ed8a768d434b32fbd097b117114c64a">
+        <dex dex="/home/clinton/AndroidStudioProjects/MyAlarmDemo/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_0ef22e0cd3008da177a63f0ccb05872cdb62742c.jar" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/MyAlarmDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/clinton/AndroidStudioProjects/MyAlarmDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_fec36255a33ef969b25484e8d5f0627ad10f5885.jar" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/MyAlarmDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05cc17b1ab6c088e8a7a1dcc7592275eb66277c7">
+        <dex dex="/home/clinton/AndroidStudioProjects/MyAlarmDemo/app/build/intermediates/pre-dexed/debug/instant-run_2902362d765949f1f9bdbde00d38269dbd34ee2e.jar" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/MyAlarmDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/clinton/AndroidStudioProjects/MyAlarmDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_9f1c977fdd916e775bb313a680049fbfb3fee537.jar" />
+    </item>
+    <item
+        jar="/home/clinton/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/clinton/AndroidStudioProjects/MyAlarmDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_8a2191297c0b0564fce01af10597c35854e6fef7.jar" />
+    </item>
+    <item
+        jar="/home/clinton/AndroidStudioProjects/MyAlarmDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/clinton/AndroidStudioProjects/MyAlarmDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_b22afe35374915e26613eb42db296159ee44b832.jar" />
+    </item>
+
+</items>
